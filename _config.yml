@@ -49,3 +49,6 @@ defaults:
        path: ""
      values:
        layout: "default"
+
+minima:
+    date_format: "%d.%m.%Y"
